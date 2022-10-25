@@ -1,0 +1,134 @@
+/*Number 12 Background Colours*/
+
+div {
+    text-align: center;
+    max-width: 1600px;
+    margin: 1% auto;
+}
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: rgb(255, 255, 255);
+}
+                    
+.book, .join {
+    background-color: #fcfbfb; 
+}
+.book:hover, .join:hover {
+    background-color:rgba(20,30,13, .7);
+}
+#background {
+    background-color: rgba(41, 58, 136, 0.527);
+}
+.msg {
+    background-color: rgb(none);
+}
+footer {
+    background-color: rgb(32, 219, 200);
+} 
+
+/*Number 13 Background Colours*/
+
+nav a{
+    background-color: rgb(34, 78, 198);
+    color: #d9c2a3;
+}    
+nav a:hover {
+    background-color: lightskyblue;
+    color: #20170c;
+}    
+/*Worries are left at home*/
+.home-title {
+    background-color: rgb(255, 255, 255);
+    color: #1d1a16;
+}    
+h4 {
+    background-color: rgb(255, 255, 255);
+    color: #232f2d;
+}    
+.book, .join {
+    background-color: rgb(34, 78, 198);
+    color: #d9c2a3;
+}    
+.book:hover, .join:hover {
+    background-color: lightskyblue;
+    color: #041c2a;
+}    
+/*Peace of mind all around*/
+.msg h2 {
+    background-color: lightskyblue;
+    color: #041c2a;
+}    
+.msg p {
+    background-color: lightskyblue;
+    color: #041c2a;;
+}    
+footer {
+    background-color: lightskyblue;
+    color: #041c2a;
+}    
+footer a {
+    background-color: lightskyblue;
+    color: #041c2a;
+}    
+footer a:hover {
+    background-color: lightskyblue;
+    color: #1d1a16;
+}    
+
+
+.center,.join{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+  }
+  
+  .hero-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+                 
+  h2,p,a {
+    text-align: center;
+  }
+
+  .hero-box {
+    margin: 25px 50px 75px 100px;
+  }
+
+  .h {
+    align-self: center;
+  }
+
+  .rivers-image{
+    align-self: center;
+  }
+
+  #camping-box, #rivers-box,#h2, #camping{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:black
+  }
+
+  .a,h1,.p,.h4,.h2,.rivers,.camping,.rafting,.rapids{ font-family: 'Courier New', Courier, monospace; }
+
+  div {
+    padding: 25px 25px;
+  }
+
+  p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  p.groove {border-style: groove;}
