@@ -1,0 +1,24 @@
+@charset "utf-8";
+body {
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 0px 270px;
+}
+
+section {
+	width: 90%;
+	background-color: rgba(2,11,87,0.80);
+	float: none;
+	right: 5%;
+	left: 5%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 260px;
+	bottom: -100px;
+	top: 420px;
+}
+
+header {
+	width: 480px;
+}
