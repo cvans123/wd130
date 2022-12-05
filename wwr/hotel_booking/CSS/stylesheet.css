@@ -1,0 +1,115 @@
+@font-face {
+	font-family: 'monsieurladoulaise regular';
+	src: url('monsieurladoulaise-regular-webfont.eot');
+	src: url('monsieurladoulaise-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('monsieurladoulaise-regular-webfont.woff') format('woff'),
+		url('monsieurladoulaise-regular-webfont.ttf') format('truetype'),
+		url('monsieurladoulaise-regular-webfont.svg') format('svg');
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFF;
+}
+body {
+	background-color: #666;
+	background-image: url(../images/bkgdHome.jpg);
+	background-attachment: scroll;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+h1 {
+	font-size: 36px;
+	color: #FFF;
+	text-shadow: 5px 5px 10px rgba(0,0,0,.5);
+	margin-right: auto;
+	text-align: left;
+}
+h2 {
+	font-size: 30px;
+	clear: both;
+	text-align: center;
+}
+a:link {
+	color: #0CF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: rgb(230, 169, 169);
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FF0;
+}
+#logo {
+	position: fixed;
+	left: 0%;
+	top: 0px;
+	width: 220px;
+	height: 90px;
+	z-index: 100;
+}
+nav {
+	position: fixed;
+	top: 96px;
+	width: auto;
+	height: 4.4em;
+
+
+
+	z-index: auto;
+	text-align: center;
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+	list-style-position: outside;
+	background-color: #333333;
+	z-index: 100;
+	margin-left: 0%;
+	margin-right: 0%;
+	float: left;
+
+	right: 0%;
+			
+	left: 0%;
+	margin-top: 1px;
+}
+header {
+	position: absolute;
+	left: 22px;
+	top: 130px;
+	width: 787px;
+	height: 74px;
+	z-index: 3;
+	right: 22px;
+}
+
+
+/*Text in Blue boxes*/
+section {
+	position: relative;
+	top: 470px;
+	width: 60%;
+	z-index: 4;
+	background-color: rgba(2,11,87,0.80);
+	border-radius: 30px 30px 30px 30px;
+	float: right;
+	right: 8.3%;
+	font-size: 17px;
+	text-align: center;
+	margin-right: 10%;
+	font-style: normal;
+	bottom: 0%;
+	margin-top: 0px;
+}
+.fancy {
+	font-family: "monsieurladoulaise regular";
+	font-size: 52px;
+}
