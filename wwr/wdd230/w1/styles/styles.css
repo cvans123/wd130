@@ -1,0 +1,14 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.h1 _{
+    text-align: center;
+    list-style-position: inside;
+}
